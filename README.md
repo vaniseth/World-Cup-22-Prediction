@@ -24,10 +24,7 @@ In football, we can consider "**GOAL**" as **an event** that might happen in the
 
 ### Formula
 
-$$
-P(X=x) = {λ^x e^{-λ} \over x!}
-
-$$
+$$ P(X=x) = {λ^x e^{-λ} \over x!} $$
 
 
 
