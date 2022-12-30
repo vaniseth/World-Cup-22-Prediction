@@ -1,6 +1,6 @@
 # World-Cup-22-Prediction
 
-1. Extracting historical data
+1. Extracting historical data by web scrapping.
 2. Using the data to predict the winner of FIFA World Cup 2022
 
 # Navigation
