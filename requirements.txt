@@ -1,0 +1,7 @@
+1. Numpy
+2. Pandas
+3. SciPy
+4. Selenium
+5. BeautifulSoup
+6. SeaBorn
+7. Matplotlib
