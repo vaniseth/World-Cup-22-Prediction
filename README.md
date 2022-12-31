@@ -47,6 +47,7 @@ To start with the development, you will need to install the following libraties:
 4. Beautiful Soup
 5. Seaborn
 6. Matplotlib
+7. SciPy
 
 # Setup
 
