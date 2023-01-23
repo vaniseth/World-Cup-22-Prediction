@@ -39,7 +39,7 @@ x: number of goals in a match that could be scored by Team A or Team B.
 
 # Dependencies
 
-To start with the development, you will need to install the following libraties:
+To start with the development, you will need to install the following libraries:
 
 1. Numpy
 2. Pandas
